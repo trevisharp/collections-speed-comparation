@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using System.Diagnostics;
+using System.Runtime.Intrinsics.X86;
+
+Console.WriteLine("Hello World");
